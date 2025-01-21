@@ -1,4 +1,4 @@
-# DC-AC-Inverter-EGS
+# Mini DC-AC-Inverter-EGS
 
 ![Image](https://github.com/user-attachments/assets/738ea2b5-321f-4d25-b8da-9189043e828c)
 
