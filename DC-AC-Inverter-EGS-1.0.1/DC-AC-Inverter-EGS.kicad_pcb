@@ -82,7 +82,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "DC-AC-Inverter-EG-Gerber/")
+			(outputdirectory "DC-AC-Inverter-EGS-Gerber/")
 		)
 	)
 	(net 0 "")
@@ -21748,8 +21748,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "VS2"
-		(at 141.605 93.757905 -90)
+	(gr_text "TR1"
+		(at 141.605 93.757905 270)
 		(layer "B.SilkS")
 		(uuid "2d5b1e38-3b50-43c2-8562-9566d3845e96")
 		(effects
@@ -21808,8 +21808,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "VS1"
-		(at 131.445 93.757905 -90)
+	(gr_text "TR2"
+		(at 131.445 93.757905 270)
 		(layer "B.SilkS")
 		(uuid "6d66c6b5-0e7b-450f-a30d-3e63de7998af")
 		(effects
