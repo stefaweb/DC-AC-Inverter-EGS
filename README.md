@@ -1,5 +1,6 @@
 # Mini DC-AC-Inverter-EGS
 
+PCB size: 90x44mm
 ![Image](https://github.com/user-attachments/assets/738ea2b5-321f-4d25-b8da-9189043e828c)
 
 ![Image](https://github.com/user-attachments/assets/794171b4-85b2-442d-8d78-883d3ae53766)
