@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Mini DC-AC Inverter")
-		(date "2025-01-20")
-		(rev "1.0.1b2")
+		(date "2025-01-21")
+		(rev "1.0.1")
 		(comment 1 "Thanks to Ammar for the basics")
 	)
 	(layers
