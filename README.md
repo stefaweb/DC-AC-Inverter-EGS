@@ -7,4 +7,4 @@ PCB size: 90x44mm
 
 ![Image](https://github.com/user-attachments/assets/89e61cd6-b33e-4877-9398-3dbdbe183777)
 
-![Image](https://github.com/user-attachments/assets/b200963f-c194-4a9e-9813-44fc6ae52e73)
+![Image](https://github.com/user-attachments/assets/4992b31b-e240-40a8-8112-9d1c533f79d4)
