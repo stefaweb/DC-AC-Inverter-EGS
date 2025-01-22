@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Mini DC-AC Inverter")
-		(date "2025-01-21")
+		(date "2025-01-22")
 		(rev "1.0.1")
 		(company "By stef")
 		(comment 1 "Thanks to Ammar for the basics")
@@ -6102,6 +6102,27 @@
 			)
 		)
 		(uuid "5d557517-3461-497f-9832-c54173b599b6")
+	)
+	(text "Q2: SS8050DTA or ZTX690BSTZ"
+		(exclude_from_sim no)
+		(at 80.772 110.744 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "73461ae1-e0c6-4908-a975-bc60219c7aba")
+	)
+	(text "Q1 = TSM090N03CP or RM10N100LDV-T"
+		(exclude_from_sim no)
+		(at 36.322 84.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "758388b7-55bc-4649-94ab-c11b0541faac")
 	)
 	(text "EGS002 Module"
 		(exclude_from_sim no)
