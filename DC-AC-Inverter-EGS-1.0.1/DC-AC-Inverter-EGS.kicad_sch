@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Mini DC-AC Inverter")
-		(date "2025-01-22")
-		(rev "1.0.1")
+		(date "2025-01-24")
+		(rev "1.0.2")
 		(company "By stef")
 		(comment 1 "Thanks to Ammar for the basics")
 	)
@@ -6063,7 +6063,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 68.58) (xy 257.81 64.77)
+			(xy 224.79 68.58) (xy 224.79 64.77)
 		)
 		(stroke
 			(width 0)
@@ -9799,7 +9799,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 68.58 0)
+		(at 224.79 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9807,7 +9807,7 @@
 		(dnp no)
 		(uuid "8c49720d-ae7b-4277-9c7f-c700a83cb068")
 		(property "Reference" "#PWR022"
-			(at 257.81 74.93 0)
+			(at 224.79 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9816,7 +9816,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 72.644 0)
+			(at 224.79 72.644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9824,7 +9824,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 68.58 0)
+			(at 224.79 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9833,7 +9833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 68.58 0)
+			(at 224.79 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9842,7 +9842,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 68.58 0)
+			(at 224.79 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
