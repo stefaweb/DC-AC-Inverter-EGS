@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FR207G")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/FR207G.kicad_sym")(options "")(descr ""))
+  (lib (name "SSRH")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/SSRH24NH-30145.kicad_sym")(options "")(descr ""))
+  (lib (name "NXRT15WB333JA3A016")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/NXRT15WB333JA3A016.kicad_sym")(options "")(descr ""))
+)
